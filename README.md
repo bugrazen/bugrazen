@@ -37,7 +37,7 @@ Gözlemlenebilirlik, otomasyon ve AI altyapısı üzerine çalışan sistem müh
 
 ### 🧭 Background
 
-9 years in IT infrastructure. Started in **Geospatial Information Systems (GIS)** — 7 years working with spatial data, mapping platforms, and large-scale geographic datasets — then transitioned into systems administration and platform engineering, where the discipline of handling structured, high-volume data carried over naturally.
+9 years in IT infrastructure. Started in **geospatial systems (GIS)** — 7 years working with spatial data, mapping platforms, and large-scale geographic datasets — then transitioned into systems administration and platform engineering, where the discipline of handling structured, high-volume data carried over naturally.
 
 The GIS years taught me how to think about data at scale before I ever touched a Prometheus query. Now I apply that to infrastructure.
 
