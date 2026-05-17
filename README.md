@@ -19,7 +19,7 @@ Gözlemlenebilirlik, otomasyon ve AI altyapısı üzerine çalışan sistem müh
 
 **Containers & Orchestration:** Docker · Kubernetes
 
-**Automation:** Ansible · AWX · Python · Bash
+**Automation:** Ansible · AWX · Python
 
 **AI Infrastructure:** vLLM · LiteLLM
 
